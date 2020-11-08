@@ -1,7 +1,6 @@
-# JPMORGAN CHASE SOFTWARE ENGINEERING VIRTUAL EXPERIENCE
+# JPMorgan Chase Software Engineering Virtual Experience
 
-### Completion Certificate: https://drive.google.com/file/d/1hmor5UMgZo7wp7CVUHwVgHsZQhQAJr1D/view?usp=sharing
-
+### Completion Certificate: 
 <br>
 <p align="center">
 <a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank">
@@ -28,6 +27,5 @@
 #### ✅ Display data visually for traders (Trader's Dashboard)
 #### ✅ Bonus task: Open source contribution.
 
-### Check My Profile Here:
     
-    https://www.insidesherpa.com/profile/4bFNnrd6bhSFD78t9/Sambhav
+   
